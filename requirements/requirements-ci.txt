@@ -1,4 +1,4 @@
-bandit<=1.6
+bandit<=1.7.6
 build
 coverage
 flake8

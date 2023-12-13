@@ -3,7 +3,7 @@ astroid==3.0.1
 atomicwrites==1.4.1
 attrs==23.1.0
 Babel==2.13.1
-bandit==1.6.0
+bandit==1.7.6
 bcrypt==4.1.1
 build==1.0.3
 certifi==2023.11.17
