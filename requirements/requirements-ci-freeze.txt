@@ -1,5 +1,5 @@
 alabaster==0.7.13
-astroid==3.0.1
+astroid==3.0.2
 atomicwrites==1.4.1
 attrs==23.1.0
 Babel==2.13.1
